@@ -1,0 +1,22 @@
+Plotted to 'C:\Users\reaga\Documents\Experiment1\PhaseA_UnoShield\PhaseB_ATMEGA\Gerber\PhaseB_ATMEGA-F_Cu.gbr'.
+Plotted to 'C:\Users\reaga\Documents\Experiment1\PhaseA_UnoShield\PhaseB_ATMEGA\Gerber\PhaseB_ATMEGA-B_Cu.gbr'.
+Plotted to 'C:\Users\reaga\Documents\Experiment1\PhaseA_UnoShield\PhaseB_ATMEGA\Gerber\PhaseB_ATMEGA-F_Paste.gbr'.
+Plotted to 'C:\Users\reaga\Documents\Experiment1\PhaseA_UnoShield\PhaseB_ATMEGA\Gerber\PhaseB_ATMEGA-B_Paste.gbr'.
+Plotted to 'C:\Users\reaga\Documents\Experiment1\PhaseA_UnoShield\PhaseB_ATMEGA\Gerber\PhaseB_ATMEGA-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\reaga\Documents\Experiment1\PhaseA_UnoShield\PhaseB_ATMEGA\Gerber\PhaseB_ATMEGA-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\reaga\Documents\Experiment1\PhaseA_UnoShield\PhaseB_ATMEGA\Gerber\PhaseB_ATMEGA-F_Mask.gbr'.
+Plotted to 'C:\Users\reaga\Documents\Experiment1\PhaseA_UnoShield\PhaseB_ATMEGA\Gerber\PhaseB_ATMEGA-B_Mask.gbr'.
+Plotted to 'C:\Users\reaga\Documents\Experiment1\PhaseA_UnoShield\PhaseB_ATMEGA\Gerber\PhaseB_ATMEGA-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\reaga\Documents\Experiment1\PhaseA_UnoShield\PhaseB_ATMEGA\Gerber\PhaseB_ATMEGA-job.gbrjob'.
+Plotted to 'C:\Users\reaga\Documents\Experiment1\PhaseA_UnoShield\PhaseB_ATMEGA\Gerber\PhaseB_ATMEGA-F_Cu.gbr'.
+Plotted to 'C:\Users\reaga\Documents\Experiment1\PhaseA_UnoShield\PhaseB_ATMEGA\Gerber\PhaseB_ATMEGA-B_Cu.gbr'.
+Plotted to 'C:\Users\reaga\Documents\Experiment1\PhaseA_UnoShield\PhaseB_ATMEGA\Gerber\PhaseB_ATMEGA-F_Paste.gbr'.
+Plotted to 'C:\Users\reaga\Documents\Experiment1\PhaseA_UnoShield\PhaseB_ATMEGA\Gerber\PhaseB_ATMEGA-B_Paste.gbr'.
+Plotted to 'C:\Users\reaga\Documents\Experiment1\PhaseA_UnoShield\PhaseB_ATMEGA\Gerber\PhaseB_ATMEGA-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\reaga\Documents\Experiment1\PhaseA_UnoShield\PhaseB_ATMEGA\Gerber\PhaseB_ATMEGA-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\reaga\Documents\Experiment1\PhaseA_UnoShield\PhaseB_ATMEGA\Gerber\PhaseB_ATMEGA-F_Mask.gbr'.
+Plotted to 'C:\Users\reaga\Documents\Experiment1\PhaseA_UnoShield\PhaseB_ATMEGA\Gerber\PhaseB_ATMEGA-B_Mask.gbr'.
+Plotted to 'C:\Users\reaga\Documents\Experiment1\PhaseA_UnoShield\PhaseB_ATMEGA\Gerber\PhaseB_ATMEGA-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\reaga\Documents\Experiment1\PhaseA_UnoShield\PhaseB_ATMEGA\Gerber\PhaseB_ATMEGA-job.gbrjob'.
+Info: Done.
+Info: Done.
