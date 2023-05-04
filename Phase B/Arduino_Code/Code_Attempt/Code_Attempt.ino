@@ -1,8 +1,8 @@
-/* author: Noe Sheridan
+/* author: Reagan Hardy
 created: 04-25-2023
 updated:
 how updated:
-worked with: Reagan Hardy 
+worked with: Noe Sheridan
 
 */
 
